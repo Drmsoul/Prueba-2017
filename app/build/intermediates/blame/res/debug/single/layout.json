@@ -20,6 +20,10 @@
         "source": "/home/soul/apps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
+        "merged": "/home/soul/apps/app/build/intermediates/res/merged/debug/layout/activity_game.xml",
+        "source": "/home/soul/apps/app/src/main/res/layout/activity_game.xml"
+    },
+    {
         "merged": "/home/soul/apps/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/home/soul/apps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
     },
@@ -70,6 +74,10 @@
     {
         "merged": "/home/soul/apps/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/home/soul/apps/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/soul/apps/app/build/intermediates/res/merged/debug/layout/activity_endgame.xml",
+        "source": "/home/soul/apps/app/src/main/res/layout/activity_endgame.xml"
     },
     {
         "merged": "/home/soul/apps/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",

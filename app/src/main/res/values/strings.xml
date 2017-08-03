@@ -1,3 +1,6 @@
 <resources>
+
     <string name="app_name">Prueba</string>
+    <string name="name_field">Nombre</string>
+    <string name="result_field">Resultados</string>
 </resources>

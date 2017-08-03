@@ -1,33 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64"
+    abi="x86_64,x86"
     api-level="22"
     density="420dpi"
     format="7"
-    timestamp="984137089932"
-    token="-1394494593151205275" >
+    timestamp="9814814743327"
+    token="-1394494593151205275"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="3250" />
+        duration="102" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="386" />
     <task
         name="instant-run-transform"
-        duration="156" />
+        duration="10" />
     <task
         name="verifier"
-        duration="5" />
+        duration="0" />
 
     <artifact
-        location="/home/soul/apps/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/home/soul/apps/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
-    <build timestamp="984137089932" >
+    <build timestamp="6641672272279" >
         <artifact
             location="/home/soul/apps/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="9723037580385" >
+        <artifact
+            location="/home/soul/apps/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="9814814743327"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/soul/apps/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

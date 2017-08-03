@@ -9,6 +9,7 @@
         android:targetSdkVersion="24" />
 
     <application
+        name="soul.prueba.prueba"
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -22,6 +23,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="soul.prueba.Game" />
+        <activity android:name="soul.prueba.endgame" />
     </application>
 
 </manifest>
